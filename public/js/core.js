@@ -31,6 +31,328 @@
 (function() {
   const quizData = [
     {
+      "category": "Hardware",
+      "question": "Qual componente é considerado o cérebro do computador?",
+      "answers": ["Memória RAM", "CPU", "Disco Rígido"],
+      "correct": 1,
+      "explanation": "A CPU (Unidade Central de Processamento) executa instruções e processa dados."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é a memória RAM?",
+      "answers": ["Memória de armazenamento permanente", "Memória temporária que armazena dados em uso", "Memória somente leitura"],
+      "correct": 1,
+      "explanation": "A memória RAM armazena dados temporariamente enquanto o computador está em uso."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma placa-mãe?",
+      "answers": ["Armazena informações", "Interconecta os componentes do computador", "Realiza o processamento gráfico"],
+      "correct": 1,
+      "explanation": "A placa-mãe é responsável por interconectar os componentes e permitir a comunicação entre eles."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um SSD?",
+      "answers": ["Um tipo de memória volátil", "Um tipo de disco de armazenamento não volátil", "Um processador gráfico"],
+      "correct": 1,
+      "explanation": "Um SSD (Solid State Drive) é um tipo de dispositivo de armazenamento que usa memória flash."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um processador gráfico (GPU)?",
+      "answers": ["Renderizar gráficos e imagens", "Gerenciar o tráfego de rede", "Processar dados matemáticos"],
+      "correct": 0,
+      "explanation": "Uma GPU (Unidade de Processamento Gráfico) é usada para renderizar gráficos e imagens em alta velocidade."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que faz um disco rígido (HDD)?",
+      "answers": ["Armazenar dados de forma permanente", "Executar programas", "Conectar dispositivos externos"],
+      "correct": 0,
+      "explanation": "Um disco rígido é um dispositivo de armazenamento que armazena dados de forma permanente."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma fonte de alimentação?",
+      "answers": ["Armazenar energia", "Converter energia da tomada para os componentes do computador", "Gerenciar o tráfego de dados"],
+      "correct": 1,
+      "explanation": "A fonte de alimentação converte a energia elétrica da tomada em voltagens que os componentes do computador podem usar."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um cooler?",
+      "answers": ["Um tipo de memória", "Um dispositivo para resfriar componentes", "Uma placa-mãe"],
+      "correct": 1,
+      "explanation": "Um cooler é usado para dissipar o calor gerado pelos componentes do computador, mantendo uma temperatura adequada."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um barramento (bus) em um computador?",
+      "answers": ["Uma rede local de computadores", "Um conjunto de linhas de comunicação que transferem dados entre componentes", "Um tipo de memória não volátil"],
+      "correct": 1,
+      "explanation": "O barramento é um conjunto de linhas de comunicação usado para transferir dados entre os componentes do computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um drive óptico?",
+      "answers": ["Armazenar dados temporariamente", "Ler e gravar dados em discos ópticos", "Processar gráficos"],
+      "correct": 1,
+      "explanation": "Um drive óptico é usado para ler e gravar dados em discos ópticos, como CDs, DVDs e Blu-rays."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é o propósito de uma placa de vídeo?",
+      "answers": ["Melhorar o desempenho da CPU", "Renderizar gráficos e vídeos", "Armazenar dados"],
+      "correct": 1,
+      "explanation": "A placa de vídeo é responsável por processar e renderizar gráficos, melhorando a qualidade visual dos jogos e aplicativos."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que faz um adaptador de rede?",
+      "answers": ["Conectar o computador a uma rede", "Armazenar dados", "Processar informações"],
+      "correct": 0,
+      "explanation": "Um adaptador de rede permite que o computador se conecte a redes, seja via cabo ou sem fio."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é uma unidade de estado sólido (SSD)?",
+      "answers": ["Um dispositivo de armazenamento que usa discos giratórios", "Um dispositivo de armazenamento que usa memória flash", "Uma placa-mãe"],
+      "correct": 1,
+      "explanation": "Um SSD é um tipo de dispositivo de armazenamento que usa memória flash, proporcionando velocidades mais rápidas em comparação com discos rígidos."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um mouse?",
+      "answers": ["Um dispositivo de entrada", "Um tipo de monitor", "Um componente de armazenamento"],
+      "correct": 0,
+      "explanation": "Um mouse é um dispositivo de entrada usado para interagir com a interface gráfica do computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um teclado?",
+      "answers": ["Renderizar gráficos", "Armazenar dados", "Inserir dados e comandos no computador"],
+      "correct": 2,
+      "explanation": "Um teclado é um dispositivo de entrada que permite ao usuário inserir dados e comandos no computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que faz uma impressora?",
+      "answers": ["Armazena informações", "Converte dados digitais em cópias físicas", "Processa dados"],
+      "correct": 1,
+      "explanation": "Uma impressora converte dados digitais em cópias físicas, imprimindo documentos e imagens."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um monitor?",
+      "answers": ["Exibir informações visuais", "Armazenar dados", "Processar gráficos"],
+      "correct": 0,
+      "explanation": "Um monitor é um dispositivo de saída que exibe informações visuais do computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual componente é responsável por fornecer som em um computador?",
+      "answers": ["Placa de Som", "Placa de Vídeo", "Placa-mãe"],
+      "correct": 0,
+      "explanation": "A Placa de Som é responsável por processar e emitir áudio em um computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma unidade óptica?",
+      "answers": ["Ler e gravar discos", "Aumentar a capacidade de armazenamento", "Controlar a temperatura do processador"],
+      "correct": 0,
+      "explanation": "Uma unidade óptica é usada para ler e gravar dados em discos, como CDs, DVDs e Blu-rays."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é uma rede de área local (LAN)?",
+      "answers": ["Uma conexão à internet", "Uma rede que conecta dispositivos em uma área limitada", "Um tipo de hardware"],
+      "correct": 1,
+      "explanation": "Uma LAN é uma rede que conecta computadores e dispositivos dentro de uma área geográfica limitada, como uma casa ou escritório."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual tipo de memória é usado para armazenar o firmware do computador?",
+      "answers": ["ROM", "RAM", "Cache"],
+      "correct": 0,
+      "explanation": "A ROM (Read-Only Memory) armazena o firmware do computador, que é o software básico necessário para inicializar o sistema."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um adaptador Wi-Fi?",
+      "answers": ["Conectar dispositivos via cabo", "Conectar o computador a redes sem fio", "Aumentar a capacidade de armazenamento"],
+      "correct": 1,
+      "explanation": "Um adaptador Wi-Fi permite que o computador se conecte a redes sem fio, facilitando o acesso à internet."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que faz um cooler líquido?",
+      "answers": ["Resfria o computador usando água", "Aumenta a velocidade do processador", "Armazena dados"],
+      "correct": 0,
+      "explanation": "Um cooler líquido resfria os componentes do computador usando um líquido refrigerante, proporcionando uma temperatura estável."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma porta USB?",
+      "answers": ["Carregar dispositivos", "Transferir dados entre dispositivos", "Ambas as opções acima"],
+      "correct": 2,
+      "explanation": "As portas USB permitem carregar dispositivos e transferir dados entre computadores e periféricos."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é uma GPU dedicada?",
+      "answers": ["Uma unidade de processamento para gráficos", "Uma memória RAM adicional", "Um tipo de disco rígido"],
+      "correct": 0,
+      "explanation": "Uma GPU dedicada é uma unidade de processamento especializada em renderizar gráficos e imagens, melhorando o desempenho em jogos e aplicações gráficas."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um cartão de expansão?",
+      "answers": ["Aumentar o armazenamento", "Adicionar funcionalidades ao computador", "Aumentar a velocidade do processador"],
+      "correct": 1,
+      "explanation": "Os cartões de expansão são usados para adicionar novas funcionalidades ao computador, como melhor desempenho gráfico ou conectividade."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um BIOS?",
+      "answers": ["Um tipo de memória", "Software que inicia o computador", "Uma unidade de armazenamento"],
+      "correct": 1,
+      "explanation": "O BIOS (Basic Input/Output System) é o software responsável por inicializar o hardware do computador durante o processo de boot."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um barramento de dados?",
+      "answers": ["Transferir dados entre componentes", "Armazenar dados", "Controlar a temperatura do processador"],
+      "correct": 0,
+      "explanation": "O barramento de dados é um conjunto de linhas que transporta dados entre o processador, a memória e outros dispositivos."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um dispositivo de armazenamento externo?",
+      "answers": ["Um componente interno do computador", "Um dispositivo que armazena dados fora do computador", "Um tipo de placa de vídeo"],
+      "correct": 1,
+      "explanation": "Um dispositivo de armazenamento externo, como um HD externo ou pen drive, armazena dados fora do computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a principal função de um processador multi-core?",
+      "answers": ["Executar várias tarefas simultaneamente", "Armazenar dados", "Conectar à internet"],
+      "correct": 0,
+      "explanation": "Um processador multi-core possui múltiplos núcleos que permitem a execução de várias tarefas ao mesmo tempo, melhorando o desempenho."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um chipset?",
+      "answers": ["Um tipo de memória", "Um conjunto de circuitos que controla a comunicação entre os componentes", "Uma fonte de energia"],
+      "correct": 1,
+      "explanation": "O chipset é um conjunto de circuitos que gerencia a comunicação entre a CPU, a memória e outros componentes do sistema."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma unidade de fonte de alimentação (PSU)?",
+      "answers": ["Fornecer energia elétrica aos componentes", "Armazenar dados", "Gerenciar a temperatura"],
+      "correct": 0,
+      "explanation": "A fonte de alimentação converte a corrente alternada da tomada em corrente contínua, fornecendo energia elétrica aos componentes do computador."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é overclocking?",
+      "answers": ["Aumentar a capacidade de armazenamento", "Executar um processador em uma frequência mais alta do que a especificada", "Resfriar o computador"],
+      "correct": 1,
+      "explanation": "Overclocking é o processo de aumentar a frequência de operação de um componente, como a CPU, para melhorar o desempenho."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um RAID (Redundant Array of Independent Disks)?",
+      "answers": ["Aumentar a velocidade de transferência de dados", "Armazenar dados de forma redundante para maior segurança", "Melhorar o desempenho gráfico"],
+      "correct": 1,
+      "explanation": "RAID é uma tecnologia que combina múltiplos discos rígidos em uma única unidade lógica para aumentar a segurança e/ou a velocidade do armazenamento."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que caracteriza uma memória Cache?",
+      "answers": ["É uma memória de armazenamento permanente", "É uma memória de acesso rápido utilizada pela CPU", "É uma memória somente leitura"],
+      "correct": 1,
+      "explanation": "A memória Cache é uma memória de acesso rápido usada pela CPU para armazenar temporariamente dados frequentemente acessados, aumentando a eficiência."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um porta HDMI?",
+      "answers": ["Conectar à internet", "Transmitir áudio e vídeo de alta definição", "Armazenar dados"],
+      "correct": 1,
+      "explanation": "A porta HDMI (High Definition Multimedia Interface) é usada para transmitir áudio e vídeo de alta definição entre dispositivos."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a principal vantagem de um sistema de resfriamento a líquido?",
+      "answers": ["Custa menos que um resfriamento a ar", "É mais eficiente em dissipar calor", "É mais barulhento"],
+      "correct": 1,
+      "explanation": "Os sistemas de resfriamento a líquido são mais eficientes em dissipar calor, o que ajuda a manter temperaturas mais baixas durante o uso intenso."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um monitor LCD?",
+      "answers": ["Um tipo de disco rígido", "Um tipo de tela que usa tecnologia de cristal líquido", "Um componente de áudio"],
+      "correct": 1,
+      "explanation": "Um monitor LCD (Liquid Crystal Display) utiliza tecnologia de cristal líquido para exibir imagens, oferecendo telas mais finas e leves."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um dispositivo de entrada como um scanner?",
+      "answers": ["Armazenar informações", "Converter documentos físicos em arquivos digitais", "Processar gráficos"],
+      "correct": 1,
+      "explanation": "Um scanner é um dispositivo de entrada que converte documentos físicos em arquivos digitais, permitindo a digitalização de imagens e textos."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual tipo de conexão é usada por um cabo Ethernet?",
+      "answers": ["USB", "SATA", "RJ45"],
+      "correct": 2,
+      "explanation": "Um cabo Ethernet usa conectores RJ45 para conectar dispositivos a redes, permitindo a comunicação de dados."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é uma impressora a laser?",
+      "answers": ["Uma impressora que utiliza tinta líquida", "Uma impressora que utiliza laser para criar imagens em papel", "Uma impressora que armazena dados"],
+      "correct": 1,
+      "explanation": "Uma impressora a laser usa tecnologia a laser para transferir toner em papel, resultando em impressões de alta qualidade e velocidade."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma unidade flash USB?",
+      "answers": ["Armazenar dados temporariamente", "Armazenar dados de forma permanente e portátil", "Conectar dispositivos à internet"],
+      "correct": 1,
+      "explanation": "Uma unidade flash USB é um dispositivo de armazenamento portátil que permite armazenar e transferir dados facilmente entre computadores."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a principal diferença entre uma placa de vídeo integrada e uma dedicada?",
+      "answers": ["A integrada é mais cara", "A dedicada tem mais desempenho e memória", "A integrada é mais lenta"],
+      "correct": 1,
+      "explanation": "Placas de vídeo dedicadas têm desempenho superior e memória própria, enquanto as integradas compartilham recursos com a CPU."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que caracteriza uma tela OLED?",
+      "answers": ["Usa tecnologia de LCD", "Produz cores mais vibrantes e pretos mais profundos", "É mais barata que LCD"],
+      "correct": 1,
+      "explanation": "As telas OLED (Organic Light Emitting Diode) oferecem melhor qualidade de imagem, com cores mais vibrantes e pretos mais profundos."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma webcam?",
+      "answers": ["Capturar imagens e vídeos", "Armazenar informações", "Transmitir dados"],
+      "correct": 0,
+      "explanation": "Uma webcam é um dispositivo de entrada que captura imagens e vídeos, permitindo videoconferências e gravações."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a principal função de um sistema operacional?",
+      "answers": ["Armazenar dados", "Gerenciar recursos de hardware e software", "Conectar à internet"],
+      "correct": 1,
+      "explanation": "O sistema operacional é responsável por gerenciar o hardware e software do computador, permitindo que os programas sejam executados."
+    },
+    {
       "category": "Segurança",
       "question": "Qual a função de um firewall?",
       "answers": ["Bloquear acessos não autorizados", "Armazenar dados", "Processar informações"],
@@ -296,104 +618,6 @@
       "correct": 0,
       "explanation": "FTP (File Transfer Protocol) é usado para transferir arquivos entre computadores na internet."
     },
-    {
-      "category": "Segurança",
-      "question": "Qual é a função de um antivírus?",
-      "answers": ["Detectar e remover softwares maliciosos", "Proteger dados contra perda", "Aumentar a velocidade do processador"],
-      "correct": 0,
-      "explanation": "Um antivírus é um software que detecta e remove vírus e outros malwares de um sistema."
-    },
-    {
-      "category": "Hardware",
-      "question": "O que é overclocking?",
-      "answers": ["Aumentar a frequência de operação de um componente acima de suas especificações originais", "Diminuir a temperatura da CPU", "Aumentar a capacidade de armazenamento de um disco rígido"],
-      "correct": 0,
-      "explanation": "Overclocking é o ato de aumentar a frequência de operação de um componente, como a CPU, além de suas especificações normais."
-    },
-    {
-      "category": "Programação",
-      "question": "O que é um loop em programação?",
-      "answers": ["Uma estrutura que repete um bloco de código até que uma condição seja atendida", "Um tipo de variável", "Uma função matemática complexa"],
-      "correct": 0,
-      "explanation": "Um loop é uma estrutura que repete a execução de um bloco de código até que uma condição específica seja satisfeita."
-    },
-    {
-      "category": "Redes",
-      "question": "Qual é o papel de um proxy em uma rede?",
-      "answers": ["Atuar como intermediário entre o cliente e o servidor", "Atribuir endereços IP", "Detectar ameaças de malware"],
-      "correct": 0,
-      "explanation": "Um proxy atua como intermediário entre um cliente e um servidor, controlando e filtrando o tráfego de rede."
-    },
-    {
-      "category": "Segurança",
-      "question": "O que é ransomware?",
-      "answers": ["Um tipo de malware que exige resgate para liberar o sistema", "Um software de proteção contra vírus", "Uma ferramenta de gerenciamento de senhas"],
-      "correct": 0,
-      "explanation": "Ransomware é um tipo de malware que bloqueia o acesso ao sistema ou arquivos e exige um pagamento para liberá-los."
-    },
-    {
-      "category": "Hardware",
-      "question": "Qual é a função de uma fonte de alimentação em um computador?",
-      "answers": ["Armazenar dados", "Converter energia elétrica para alimentar os componentes", "Controlar a temperatura do sistema"],
-      "correct": 1,
-      "explanation": "A fonte de alimentação converte energia elétrica da tomada em uma forma utilizável para os componentes do computador."
-    },
-    {
-      "category": "Programação",
-      "question": "O que é um bug em programação?",
-      "answers": ["Um erro ou falha em um programa", "Uma nova funcionalidade", "Um tipo de sistema operacional"],
-      "correct": 0,
-      "explanation": "Um bug é um erro ou falha em um programa que pode causar comportamentos inesperados."
-    },
-    {
-      "category": "Banco de Dados",
-      "question": "O que é uma consulta em SQL?",
-      "answers": ["Uma operação para recuperar dados de um banco de dados", "Um comando para excluir dados", "Um tipo de tabela"],
-      "correct": 0,
-      "explanation": "Uma consulta em SQL é uma operação que recupera dados de um banco de dados com base em critérios especificados."
-    },
-    {
-      "category": "Redes",
-      "question": "Qual é a principal função do protocolo TCP?",
-      "answers": ["Garantir a entrega confiável de dados", "Controlar o acesso à internet", "Converter endereços IP em nomes de domínio"],
-      "correct": 0,
-      "explanation": "O protocolo TCP (Transmission Control Protocol) garante a entrega confiável de dados na comunicação pela internet."
-    },
-    {
-      "category": "Segurança",
-      "question": "O que é engenharia social?",
-      "answers": ["Manipulação de pessoas para obter informações confidenciais", "Um método de programação", "Uma técnica de segurança de rede"],
-      "correct": 0,
-      "explanation": "Engenharia social refere-se à manipulação de indivíduos para que revelem informações confidenciais."
-    },
-    {
-      "category": "Software",
-      "question": "Qual é a diferença entre um aplicativo nativo e um aplicativo web?",
-      "answers": ["Aplicativos nativos são instalados no dispositivo, enquanto aplicativos web são acessados pelo navegador", "Aplicativos nativos são mais lentos que aplicativos web", "Não há diferença"],
-      "correct": 0,
-      "explanation": "Aplicativos nativos são desenvolvidos para um sistema operacional específico e instalados no dispositivo, enquanto aplicativos web são acessados através de navegadores."
-    },
-    {
-      "category": "Programação",
-      "question": "O que significa OOP?",
-      "answers": ["Programação Orientada a Objetos", "Operação de Objeto Programado", "Organização de Objetos em Projetos"],
-      "correct": 0,
-      "explanation": "OOP significa Programação Orientada a Objetos, um paradigma de programação baseado na utilização de objetos."
-    },
-    {
-      "category": "Hardware",
-      "question": "Qual é a função de um cooler em um computador?",
-      "answers": ["Aumentar a velocidade do processador", "Resfriar os componentes para evitar superaquecimento", "Aumentar a memória RAM"],
-      "correct": 1,
-      "explanation": "Um cooler é usado para resfriar os componentes do computador, evitando que eles superaqueçam."
-    },
-    {
-      "category": "Redes",
-      "question": "O que é um servidor?",
-      "answers": ["Um computador que fornece serviços a outros computadores", "Um dispositivo de armazenamento", "Um tipo de firewall"],
-      "correct": 0,
-      "explanation": "Um servidor é um computador que fornece serviços e recursos a outros computadores na rede."
-    }
   ];
 
   let questions = [...quizData];
