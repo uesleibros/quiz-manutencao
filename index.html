@@ -7,52 +7,80 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="public/js/shuffle.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/progressbar.js/0.6.1/progressbar.min.js" integrity="sha512-7IoDEsIJGxz/gNyJY/0LRtS45wDSvPFXGPuC7Fo4YueWMNOmWKMAllEqo2Im3pgOjeEwsOoieyliRgdkZnY0ow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/progressbar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script defer src="public/js/core.js"></script>
-  <title>Quiz de Manutenção e Segurança</title>
+  <title>Quiz de Informática</title>
 </head>
-<body class="bg-white text-gray-800">
-	<div class="relative min-h-screen flex flex-col items-center justify-center">
-    <main class="bg-gray-100 rounded-lg p-6 max-w-lg w-full shadow-md border border-gray-300">
-      <h1 class="text-2xl font-bold text-center mb-4">Quiz de Manutenção e Segurança</h1>
+<body class="text-white min-h-screen flex flex-col items-center justify-center p-4">
+  <!-- Conteúdo Principal -->
+  <main class="p-8 max-w-2xl w-full z-10">
+    <h1 class="text-3xl font-bold text-center text-blue-600 mb-6">Quiz de Manutenção e Suporte</h1>
+    
+    <!-- Introdução -->
+    <div id="intro" class="space-y-6">
+      <p class="text-center text-gray-700">
+        Coloque seus conhecimentos em manutenção e suporte à prova com este quiz divertido e desafiador!
+      </p>
+      <button id="startQuiz" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition duration-300 transform hover:scale-105">
+        Iniciar Quiz
+      </button>
+    </div>
+
+    <!-- Container do Quiz -->
+    <div id="quizContainer" class="hidden space-y-6">
+      <div class="flex justify-between items-center">
+        <div id="questionChip" class="bg-blue-100 text-blue-800 font-semibold py-1 px-3 rounded-full text-sm"></div>
+        <div id="categoryChip" class="bg-pink-100 text-pink-800 font-semibold py-1 px-3 rounded-full text-sm"></div>
+        <div id="scoreCounter" class="bg-green-100 text-green-800 font-semibold py-1 px-3 rounded-full text-sm"></div>
+      </div>
       
-      <div id="intro" class="mb-4">
-        <p class="text-center mb-2">
-          Teste seus conhecimentos em um ambiente seguro e controlado.
-        </p>
-        <button id="startQuiz" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg">
-          Iniciar Quiz
-        </button>
-      </div>
+      <!-- Barra de Progresso -->
+      <div id="progress-bar" class="mb-4"></div>
+      
+      <!-- Pergunta -->
+      <h2 id="question" class="text-xl font-semibold text-gray-800"></h2>
+      
+      <!-- Respostas -->
+      <div id="answers" class="space-y-3"></div>
 
-      <div id="quizContainer" class="hidden">
-        <div class="flex justify-between mb-2">
-          <div id="questionChip" class="bg-blue-400 text-white py-1 px-2 rounded text-sm"></div>
-          <div id="scoreCounter" class="bg-blue-400 text-white py-1 px-2 rounded text-sm"></div>
-        </div>
-        <h2 id="question" class="text-lg font-semibold mb-2"></h2>
-        <div id="answers" class="mb-2"></div>
-        <div id="explanation" class="mt-2 p-2 bg-gray-200 rounded hidden">
-          <p id="explanationText" class="text-gray-700"></p>
-        </div>
-        <button id="nextQuestion" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded hidden">
-          Próxima Pergunta
-        </button>
-        <p class="text-black font-bold text-xs"></p>
+      <!-- Próxima Pergunta -->
+      <button id="nextQuestion" class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition duration-300 transform hover:scale-105 hidden">
+        Próxima Pergunta
+      </button>
+      <!-- Explicação -->
+      <div id="explanation" class="mt-4 p-4 bg-gray-100 rounded-lg hidden">
+        <p id="explanationText" class="text-gray-700"></p>
       </div>
+    </div>
 
-      <div id="result" class="hidden text-center">
-        <h2 class="text-xl font-bold mb-2">Resultado Final</h2>
-        <p id="score" class="text-lg mb-2"></p>
-        <button id="restartQuiz" class="bg-blue-600 hover:bg-blue-700 text-white py-2 rounded">
-          Reiniciar Quiz
-        </button>
+    <!-- Resultados -->
+    <div id="result" class="hidden text-center">
+      <h2 class="text-2xl font-bold text-blue-600 mb-4">Resultado Final</h2>
+      <p id="score" class="text-xl mb-2 text-black"></p>
+      <p id="percentage" class="text-lg mb-4 text-black"></p>
+      
+      <!-- Gráficos -->
+      <div class="chart-container">
+        <canvas id="resultChart"></canvas>
       </div>
-    </main>
+      <div class="chart-container mt-8">
+        <canvas id="radarChart"></canvas>
+      </div>
+      <div class="chart-container mt-8">
+        <canvas id="pieChart"></canvas>
+      </div>
+      
+      <!-- Reiniciar Quiz -->
+      <button id="restartQuiz" class="mt-6 bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition duration-300 transform hover:scale-105">
+        Reiniciar Quiz
+      </button>
+    </div>
+  </main>
 
-    <footer class="mt-4 text-center text-gray-600">
-      <p>Projeto para Feira de Ciências do CETEP.</p>
-    </footer>
-  </div>
+  <!-- Rodapé -->
+  <footer class="mt-8 text-center text-gray-400">
+    <p>Projeto para Feira de Ciências do CETEP.</p>
+  </footer>
 </body>
 </html>
