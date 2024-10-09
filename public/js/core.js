@@ -29,15 +29,381 @@
  */
 
 (function() {
-  const _0x81c7e7=_0x420f;(function(_0x38e722,_0xfebc9){const _0x6a194e=_0x420f,_0xbd667c=_0x38e722();while(!![]){try{const _0x56ef38=parseInt(_0x6a194e(0x1e2))/0x1*(parseInt(_0x6a194e(0x1f9))/0x2)+-parseInt(_0x6a194e(0x1f2))/0x3+parseInt(_0x6a194e(0x1c8))/0x4+-parseInt(_0x6a194e(0x206))/0x5+parseInt(_0x6a194e(0x208))/0x6+parseInt(_0x6a194e(0x1d7))/0x7*(-parseInt(_0x6a194e(0x1e8))/0x8)+parseInt(_0x6a194e(0x19a))/0x9*(parseInt(_0x6a194e(0x211))/0xa);if(_0x56ef38===_0xfebc9)break;else _0xbd667c['push'](_0xbd667c['shift']());}catch(_0xff9dd9){_0xbd667c['push'](_0xbd667c['shift']());}}}(_0x433f,0x350fb));function _0x420f(_0x152847,_0x373978){const _0x433fb2=_0x433f();return _0x420f=function(_0x420f46,_0x57f3c4){_0x420f46=_0x420f46-0x178;let _0x1a4afc=_0x433fb2[_0x420f46];return _0x1a4afc;},_0x420f(_0x152847,_0x373978);}function _0x433f(){const _0x4e5cb1=['Um\x20tipo\x20de\x20malware','O\x20que\x20é\x20uma\x20rede\x20peer-to-peer\x20(P2P)?','Qual\x20é\x20a\x20função\x20da\x20criptografia\x20de\x20dados?','O\x20que\x20significa\x20a\x20sigla\x20IoT?','A\x20criptografia\x20é\x20usada\x20para\x20proteger\x20informações\x20sensíveis,\x20convertendo-as\x20em\x20um\x20formato\x20ilegível\x20para\x20garantir\x20a\x20confidencialidade.','O\x20que\x20é\x20cloud\x20computing?','Um\x20antivírus','Conectar\x20redes\x20diferentes','O\x20que\x20é\x20phishing?','Desnormalização','Phishing\x20é\x20uma\x20técnica\x20de\x20ataque\x20onde\x20o\x20invasor\x20tenta\x20enganar\x20a\x20vítima\x20para\x20que\x20revele\x20informações\x20pessoais,\x20geralmente\x20por\x20meio\x20de\x20e-mails\x20falsos.','Qual\x20é\x20o\x20propósito\x20da\x20criptografia?','Aumentar\x20a\x20velocidade','Proteger\x20computadores','Hyper\x20Transfer\x20Protocol\x20Secure','Um\x20tipo\x20de\x20ataque','Advanced\x20Programming\x20Interface','Injeção\x20de\x20SQL\x20é\x20um\x20tipo\x20de\x20ataque\x20onde\x20comandos\x20SQL\x20maliciosos\x20são\x20inseridos\x20em\x20um\x20campo\x20de\x20entrada\x20para\x20manipular\x20um\x20banco\x20de\x20dados.','Qual\x20é\x20a\x20função\x20de\x20um\x20firewall\x20de\x20aplicação?','Criar\x20backups','Um\x20conjunto\x20de\x20dispositivos\x20infectados','Um\x20endereço\x20de\x20um\x20recurso\x20na\x20web','Um\x20arquivo\x20que\x20armazena\x20dados\x20do\x20usuário','Proteger\x20contra\x20vírus','Internet\x20of\x20Technology','O\x20que\x20é\x20a\x20autenticação\x20de\x20dois\x20fatores?','Um\x20worm\x20é\x20um\x20tipo\x20de\x20malware\x20que\x20se\x20replica\x20e\x20se\x20espalha\x20pela\x20rede,\x20muitas\x20vezes\x20explorando\x20vulnerabilidades\x20em\x20sistemas.','Proteger\x20dados\x20com\x20criptografia','Conexão\x20à\x20internet','Conectar\x20à\x20internet','Virtual\x20Protected\x20Network','Sobrecarga\x20de\x20servidores\x20com\x20tráfego','Malware\x20refere-se\x20a\x20qualquer\x20software\x20projetado\x20para\x20causar\x20danos\x20a\x20um\x20computador,\x20servidor\x20ou\x20rede.','Um\x20método\x20de\x20armazenamento','Qualquer\x20software\x20malicioso','O\x20que\x20é\x20um\x20cookie\x20em\x20termos\x20de\x20web?','O\x20que\x20significa\x20a\x20sigla\x20VPN?','Garantir\x20a\x20entrega\x20de\x20pacotes','Criar\x20backups\x20automáticos','1457528mRuHvh','O\x20que\x20é\x20um\x20banco\x20de\x20dados?','Proteger\x20redes\x20contra\x20vírus','Phishing\x20em\x20larga\x20escala','Uso\x20de\x20software\x20de\x20segurança','O\x20que\x20é\x20um\x20malware?','Acesso\x20não\x20autorizado\x20a\x20dados','Um\x20firewall\x20serve\x20para\x20monitorar\x20e\x20controlar\x20o\x20tráfego\x20de\x20rede,\x20protegendo\x20sistemas\x20contra\x20acessos\x20não\x20autorizados.','Gerenciar\x20hardware\x20e\x20software','Very\x20Private\x20Network','Access\x20Programming\x20Interface','A\x20criptografia\x20é\x20usada\x20para\x20proteger\x20informações,\x20tornando-as\x20ilegíveis\x20para\x20pessoas\x20não\x20autorizadas.','Binary\x20Input/Output\x20System','Área\x20geográfica\x20extensa','Um\x20vírus\x20de\x20computador','7uUydcE','Um\x20ataque\x20de\x20DDoS','Controlar\x20o\x20tráfego\x20de\x20aplicações\x20específicas','O\x20sistema\x20operacional\x20gerencia\x20todos\x20os\x20recursos\x20de\x20hardware\x20e\x20software\x20de\x20um\x20computador.','Qual\x20é\x20a\x20função\x20de\x20um\x20servidor\x20DNS?','Qual\x20é\x20a\x20principal\x20função\x20de\x20um\x20firewall?','Application\x20Process\x20Interface','O\x20que\x20é\x20a\x20rede\x20Tor?','Aumentar\x20a\x20velocidade\x20do\x20computador','Aumentar\x20a\x20velocidade\x20de\x20acesso','Um\x20tipo\x20de\x20firewall','11iqsuDZ','Qual\x20é\x20o\x20objetivo\x20da\x20normalização\x20em\x20bancos\x20de\x20dados?','Proteger\x20informações\x20sensíveis','A\x20rede\x20Tor\x20permite\x20navegação\x20anônima\x20na\x20internet,\x20criptografando\x20o\x20tráfego\x20e\x20ocultando\x20a\x20localização\x20do\x20usuário.','Um\x20hardware\x20de\x20computação','Encapsulamento\x20é\x20um\x20dos\x20princípios\x20fundamentais\x20da\x20programação\x20orientada\x20a\x20objetos,\x20que\x20promove\x20a\x20proteção\x20de\x20dados.','679832IxRSrR','O\x20software\x20que\x20gerencia\x20hardware\x20e\x20software','Hypertext\x20Transfer\x20Protocol\x20Simple','Qual\x20é\x20a\x20função\x20do\x20protocolo\x20TCP?','O\x20que\x20é\x20um\x20proxy?','Um\x20tipo\x20de\x20software\x20malicioso','O\x20que\x20significa\x20HTTPS?','Um\x20tipo\x20de\x20software\x20de\x20segurança','Um\x20antivírus\x20é\x20projetado\x20para\x20detectar,\x20bloquear\x20e\x20eliminar\x20software\x20malicioso,\x20ajudando\x20a\x20proteger\x20o\x20sistema\x20contra\x20vírus\x20e\x20outros\x20tipos\x20de\x20malware.','Internet\x20of\x20Transfers','435015QrstuK','Uma\x20rede\x20de\x20computadores','Distribuição\x20de\x20software\x20malicioso','Internet\x20of\x20Things','Qual\x20é\x20a\x20função\x20de\x20um\x20roteador?','Alta\x20velocidade\x20de\x20transmissão','Um\x20sistema\x20operacional\x20gerencia\x20todos\x20os\x20recursos\x20de\x20hardware\x20e\x20software\x20de\x20um\x20computador,\x20permitindo\x20a\x20interação\x20do\x20usuário\x20com\x20o\x20dispositivo.','9346dDZlLa','O\x20que\x20é\x20uma\x20injeção\x20de\x20SQL?','Uma\x20linguagem\x20de\x20programação','Um\x20software\x20de\x20backup','Um\x20programa\x20de\x20backup','O\x20que\x20é\x20um\x20botnet?','O\x20que\x20caracteriza\x20uma\x20rede\x20local\x20(LAN)?','Facilitar\x20downloads','Qual\x20é\x20a\x20função\x20do\x20sistema\x20operacional?','Sincronização','Gerenciar\x20backups','Um\x20método\x20de\x20backup','Um\x20tipo\x20de\x20software\x20antivírus','2139330orkqxe','IoT\x20significa\x20Internet\x20das\x20Coisas,\x20que\x20se\x20refere\x20à\x20interconexão\x20de\x20dispositivos\x20pela\x20internet.','656724bXbguv','Armazenar\x20arquivos','Uma\x20VPN\x20(Rede\x20Privada\x20Virtual)\x20cria\x20uma\x20conexão\x20segura\x20e\x20criptografada,\x20protegendo\x20a\x20identidade\x20do\x20usuário\x20e\x20os\x20dados\x20transmitidos.','Proteger\x20a\x20identidade\x20do\x20usuário','O\x20que\x20é\x20um\x20sistema\x20de\x20gerenciamento\x20de\x20banco\x20de\x20dados\x20(SGBD)?','Um\x20tipo\x20de\x20ataque\x20cibernético','Proteger\x20dados\x20em\x20nuvem','Uso\x20de\x20recursos\x20de\x20computação\x20pela\x20internet','Facilitar\x20backups','3499500OITYsY','Phishing\x20é\x20uma\x20técnica\x20de\x20ataque\x20onde\x20o\x20invasor\x20tenta\x20enganar\x20a\x20vítima\x20para\x20que\x20revele\x20informações\x20pessoais.','Uma\x20rede\x20de\x20computadores\x20centralizada','Uma\x20linguagem\x20de\x20codificação','Um\x20banco\x20de\x20dados\x20é\x20um\x20sistema\x20que\x20permite\x20o\x20armazenamento,\x20recuperação\x20e\x20gerenciamento\x20de\x20dados\x20de\x20forma\x20eficiente.','Controlar\x20acessos','Hypertext\x20Transfer\x20Protocol\x20Secure','Um\x20tipo\x20de\x20ataque\x20que\x20usa\x20engenharia\x20social','Proteger\x20dados','Um\x20sistema\x20de\x20backup','Armazenar\x20dados','Aumentar\x20a\x20velocidade\x20de\x20transmissão','Virtual\x20Public\x20Network','Um\x20ataque\x20de\x20força\x20bruta\x20envolve\x20tentar\x20repetidamente\x20diferentes\x20combinações\x20de\x20senha\x20até\x20encontrar\x20a\x20correta,\x20visando\x20comprometer\x20contas\x20de\x20usuário.','Um\x20programa\x20malicioso','Uma\x20botnet\x20é\x20uma\x20rede\x20de\x20dispositivos\x20comprometidos,\x20controlados\x20por\x20um\x20invasor,\x20que\x20podem\x20ser\x20usados\x20para\x20executar\x20ataques\x20em\x20larga\x20escala.','Cloud\x20computing\x20se\x20refere\x20ao\x20uso\x20de\x20recursos\x20de\x20computação\x20pela\x20internet,\x20como\x20armazenamento\x20e\x20processamento\x20de\x20dados.','Uma\x20rede\x20que\x20permite\x20navegação\x20anônima','Basic\x20Input/Output\x20System','O\x20que\x20significa\x20a\x20sigla\x20BIOS?','Uma\x20rede\x20apenas\x20para\x20jogos\x20online','Um\x20tipo\x20de\x20banco\x20de\x20dados','Um\x20servidor\x20intermediário','Uma\x20técnica\x20de\x20programação','O\x20servidor\x20DNS\x20traduz\x20nomes\x20de\x20domínio\x20em\x20endereços\x20IP,\x20permitindo\x20que\x20os\x20navegadores\x20acessem\x20recursos\x20na\x20internet.','Virtual\x20Private\x20Network','Bloquear\x20anúncios\x20online','A\x20autenticação\x20de\x20dois\x20fatores\x20é\x20um\x20método\x20de\x20segurança\x20que\x20requer\x20duas\x20formas\x20de\x20verificação\x20antes\x20de\x20conceder\x20acesso\x20a\x20uma\x20conta.','Um\x20software\x20de\x20segurança','Uma\x20técnica\x20de\x20segurança','O\x20que\x20é\x20a\x20computação\x20em\x20nuvem?','Uma\x20rede\x20de\x20dispositivos\x20móveis','Um\x20firewall\x20de\x20aplicação\x20controla\x20e\x20filtra\x20o\x20tráfego\x20de\x20aplicações\x20específicas,\x20protegendo-as\x20contra\x20ataques\x20direcionados.','Uso\x20de\x20protocolos\x20específicos','Armazenar\x20dados\x20em\x20nuvem','Enviar\x20e-mails','Qual\x20é\x20a\x20principal\x20função\x20de\x20um\x20antivírus?','Um\x20proxy\x20é\x20um\x20servidor\x20intermediário\x20que\x20atua\x20entre\x20um\x20cliente\x20e\x20um\x20servidor,\x20filtrando\x20e\x20controlando\x20o\x20tráfego\x20de\x20dados.','9CSoFrv','Proteger\x20contra\x20malware','Aumentar\x20a\x20velocidade\x20da\x20internet','Hypertext\x20Transfer\x20Protocol\x20Standard','Qual\x20dos\x20seguintes\x20é\x20um\x20princípio\x20da\x20programação\x20orientada\x20a\x20objetos?','O\x20que\x20é\x20um\x20URL?','Um\x20tipo\x20de\x20software'];_0x433f=function(){return _0x4e5cb1;};return _0x433f();}const quizData=[{'question':_0x81c7e7(0x1dc),'answers':['Monitorar\x20tráfego',_0x81c7e7(0x17e),_0x81c7e7(0x1b4),_0x81c7e7(0x1ad)],'correct':0x0,'explanation':_0x81c7e7(0x1cf)},{'question':_0x81c7e7(0x1fa),'answers':[_0x81c7e7(0x191),_0x81c7e7(0x1b0),_0x81c7e7(0x1c2),'Uma\x20linguagem\x20de\x20programação'],'correct':0x1,'explanation':_0x81c7e7(0x1b2)},{'question':_0x81c7e7(0x19e),'answers':['Encapsulamento','Normalização',_0x81c7e7(0x1aa),_0x81c7e7(0x202)],'correct':0x0,'explanation':_0x81c7e7(0x1e7)},{'question':_0x81c7e7(0x1ee),'answers':[_0x81c7e7(0x17a),_0x81c7e7(0x1ea),_0x81c7e7(0x19d),_0x81c7e7(0x1af)],'correct':0x0,'explanation':'HTTPS\x20é\x20a\x20versão\x20segura\x20do\x20HTTP,\x20utilizando\x20criptografia\x20para\x20proteger\x20a\x20comunicação\x20na\x20web.'},{'question':_0x81c7e7(0x1db),'answers':[_0x81c7e7(0x197),'Resolver\x20nomes\x20de\x20domínio',_0x81c7e7(0x209),'Criar\x20redes'],'correct':0x1,'explanation':_0x81c7e7(0x18c)},{'question':_0x81c7e7(0x1a9),'answers':[_0x81c7e7(0x18b),'Um\x20tipo\x20de\x20ataque\x20cibernético',_0x81c7e7(0x190),'Uma\x20linguagem\x20de\x20codificação'],'correct':0x1,'explanation':_0x81c7e7(0x212)},{'question':_0x81c7e7(0x1cd),'answers':[_0x81c7e7(0x1ef),_0x81c7e7(0x1d6),_0x81c7e7(0x1c3),_0x81c7e7(0x1fd)],'correct':0x2,'explanation':_0x81c7e7(0x1c1)},{'question':_0x81c7e7(0x1eb),'answers':[_0x81c7e7(0x1c6),'Aumentar\x20a\x20velocidade\x20de\x20conexão',_0x81c7e7(0x1bc),_0x81c7e7(0x179)],'correct':0x0,'explanation':'O\x20TCP\x20(Transmission\x20Control\x20Protocol)\x20garante\x20a\x20entrega\x20confiável\x20de\x20dados\x20entre\x20computadores\x20em\x20uma\x20rede.'},{'question':_0x81c7e7(0x1c5),'answers':[_0x81c7e7(0x18d),_0x81c7e7(0x180),_0x81c7e7(0x1d1),_0x81c7e7(0x1bf)],'correct':0x0,'explanation':'Uma\x20VPN\x20(Rede\x20Privada\x20Virtual)\x20cria\x20uma\x20conexão\x20segura\x20e\x20criptografada\x20sobre\x20uma\x20rede\x20menos\x20segura,\x20como\x20a\x20Internet.'},{'question':_0x81c7e7(0x201),'answers':[_0x81c7e7(0x1d0),_0x81c7e7(0x1b8),_0x81c7e7(0x1be),'Criar\x20arquivos'],'correct':0x0,'explanation':_0x81c7e7(0x1da)},{'question':'O\x20que\x20é\x20uma\x20API?','answers':['Application\x20Programming\x20Interface',_0x81c7e7(0x1dd),_0x81c7e7(0x1b1),_0x81c7e7(0x1d2)],'correct':0x0,'explanation':'Uma\x20API\x20é\x20um\x20conjunto\x20de\x20definições\x20e\x20protocolos\x20que\x20permite\x20que\x20diferentes\x20softwares\x20se\x20comuniquem\x20entre\x20si.'},{'question':_0x81c7e7(0x1a6),'answers':['Computação\x20em\x20nuvem','Computação\x20local','Computação\x20móvel','Computação\x20offline'],'correct':0x0,'explanation':_0x81c7e7(0x184)},{'question':_0x81c7e7(0x1a4),'answers':[_0x81c7e7(0x1f5),_0x81c7e7(0x1b9),_0x81c7e7(0x1f1),'Internet\x20of\x20Telecommunications'],'correct':0x0,'explanation':_0x81c7e7(0x207)},{'question':_0x81c7e7(0x1ac),'answers':[_0x81c7e7(0x17c),_0x81c7e7(0x17e),'Aumentar\x20a\x20velocidade\x20de\x20transmissão','Reduzir\x20o\x20tamanho\x20dos\x20dados'],'correct':0x0,'explanation':_0x81c7e7(0x1d3)},{'question':_0x81c7e7(0x1c9),'answers':['Um\x20sistema\x20de\x20armazenamento\x20de\x20dados',_0x81c7e7(0x1ef),_0x81c7e7(0x1e6),'Um\x20protocolo\x20de\x20rede'],'correct':0x0,'explanation':_0x81c7e7(0x178)},{'question':_0x81c7e7(0x198),'answers':[_0x81c7e7(0x20e),'Eliminar\x20software\x20malicioso',_0x81c7e7(0x1df),_0x81c7e7(0x1c7)],'correct':0x1,'explanation':_0x81c7e7(0x1f0)},{'question':_0x81c7e7(0x1ff),'answers':[_0x81c7e7(0x1bd),_0x81c7e7(0x1d5),_0x81c7e7(0x1f7),_0x81c7e7(0x195)],'correct':0x0,'explanation':'Uma\x20rede\x20local\x20(LAN)\x20conecta\x20dispositivos\x20em\x20uma\x20área\x20geográfica\x20restrita,\x20como\x20uma\x20casa\x20ou\x20escritório,\x20geralmente\x20com\x20alta\x20velocidade\x20de\x20transmissão.'},{'question':'O\x20que\x20é\x20um\x20ataque\x20DDoS?','answers':[_0x81c7e7(0x1ce),_0x81c7e7(0x1f4),_0x81c7e7(0x1c0),_0x81c7e7(0x1cb)],'correct':0x2,'explanation':'Um\x20ataque\x20DDoS\x20(Distributed\x20Denial\x20of\x20Service)\x20visa\x20sobrecarregar\x20um\x20servidor\x20com\x20um\x20volume\x20excessivo\x20de\x20tráfego,\x20tornando-o\x20inacessível\x20a\x20usuários\x20legítimos.'},{'question':_0x81c7e7(0x1a3),'answers':['Facilitar\x20o\x20acesso\x20a\x20informações',_0x81c7e7(0x196),_0x81c7e7(0x1e4),_0x81c7e7(0x17f)],'correct':0x2,'explanation':_0x81c7e7(0x1a5)},{'question':_0x81c7e7(0x1ec),'answers':[_0x81c7e7(0x1e1),_0x81c7e7(0x18a),_0x81c7e7(0x1fc),_0x81c7e7(0x1f3)],'correct':0x1,'explanation':_0x81c7e7(0x199)},{'question':_0x81c7e7(0x187),'answers':[_0x81c7e7(0x186),'Binary\x20Integrated\x20Operating\x20System','Basic\x20Internal\x20Operating\x20System',_0x81c7e7(0x1d4)],'correct':0x0,'explanation':'A\x20sigla\x20BIOS\x20se\x20refere\x20ao\x20\x27Basic\x20Input/Output\x20System\x27,\x20um\x20firmware\x20fundamental\x20para\x20iniciar\x20o\x20computador\x20e\x20fornecer\x20a\x20interface\x20entre\x20o\x20sistema\x20operacional\x20e\x20o\x20hardware.'},{'question':'Qual\x20é\x20a\x20principal\x20função\x20de\x20uma\x20VPN?','answers':[_0x81c7e7(0x19c),_0x81c7e7(0x20b),_0x81c7e7(0x18e),_0x81c7e7(0x200)],'correct':0x1,'explanation':_0x81c7e7(0x20a)},{'question':_0x81c7e7(0x20c),'answers':['Um\x20software\x20para\x20editar\x20textos',_0x81c7e7(0x17d),'Um\x20software\x20que\x20gerencia\x20dados','Um\x20tipo\x20de\x20firewall'],'correct':0x2,'explanation':'Um\x20SGBD\x20é\x20um\x20software\x20que\x20permite\x20a\x20criação,\x20manipulação\x20e\x20gerenciamento\x20de\x20bancos\x20de\x20dados,\x20facilitando\x20o\x20armazenamento\x20e\x20a\x20recuperação\x20de\x20informações.'},{'question':_0x81c7e7(0x1c4),'answers':[_0x81c7e7(0x182),_0x81c7e7(0x1b7),'Uma\x20técnica\x20de\x20segurança',_0x81c7e7(0x1a0)],'correct':0x1,'explanation':'Um\x20cookie\x20é\x20um\x20pequeno\x20arquivo\x20que\x20armazena\x20informações\x20sobre\x20as\x20preferências\x20do\x20usuário\x20e\x20atividades\x20em\x20um\x20site.'},{'question':_0x81c7e7(0x1a2),'answers':[_0x81c7e7(0x213),'Uma\x20rede\x20onde\x20todos\x20os\x20dispositivos\x20têm\x20igual\x20status',_0x81c7e7(0x188),_0x81c7e7(0x193)],'correct':0x1,'explanation':'Uma\x20rede\x20P2P\x20permite\x20que\x20todos\x20os\x20dispositivos\x20conectados\x20se\x20comuniquem\x20diretamente\x20entre\x20si,\x20facilitando\x20a\x20troca\x20de\x20arquivos\x20e\x20recursos.'},{'question':_0x81c7e7(0x1a9),'answers':[_0x81c7e7(0x18b),_0x81c7e7(0x20d),'Um\x20software\x20de\x20segurança',_0x81c7e7(0x214)],'correct':0x1,'explanation':_0x81c7e7(0x1ab)},{'question':'O\x20que\x20é\x20um\x20worm?','answers':[_0x81c7e7(0x1ed),_0x81c7e7(0x1fd),_0x81c7e7(0x1e1),_0x81c7e7(0x1a7)],'correct':0x0,'explanation':_0x81c7e7(0x1bb)},{'question':_0x81c7e7(0x1f6),'answers':[_0x81c7e7(0x17e),_0x81c7e7(0x1a8),_0x81c7e7(0x1ae),_0x81c7e7(0x197)],'correct':0x1,'explanation':'Um\x20roteador\x20conecta\x20diferentes\x20redes,\x20permitindo\x20que\x20os\x20dispositivos\x20em\x20uma\x20rede\x20se\x20comuniquem\x20com\x20dispositivos\x20em\x20outra.'},{'question':'O\x20que\x20é\x20um\x20sistema\x20operacional?','answers':[_0x81c7e7(0x190),_0x81c7e7(0x1e6),_0x81c7e7(0x1e9),_0x81c7e7(0x189)],'correct':0x2,'explanation':_0x81c7e7(0x1f8)},{'question':'O\x20que\x20é\x20um\x20ataque\x20de\x20força\x20bruta?','answers':[_0x81c7e7(0x17b),'Uma\x20tentativa\x20de\x20adivinhar\x20senhas',_0x81c7e7(0x1d8),'Um\x20tipo\x20de\x20malware'],'correct':0x1,'explanation':_0x81c7e7(0x181)},{'question':_0x81c7e7(0x1b3),'answers':[_0x81c7e7(0x1ca),_0x81c7e7(0x1d9),'Aumentar\x20a\x20velocidade\x20da\x20conexão',_0x81c7e7(0x203)],'correct':0x1,'explanation':_0x81c7e7(0x194)},{'question':_0x81c7e7(0x19f),'answers':[_0x81c7e7(0x1a1),_0x81c7e7(0x1b6),_0x81c7e7(0x1fb),_0x81c7e7(0x190)],'correct':0x1,'explanation':'Um\x20URL\x20(Uniform\x20Resource\x20Locator)\x20é\x20o\x20endereço\x20usado\x20para\x20acessar\x20um\x20recurso\x20na\x20web,\x20como\x20uma\x20página\x20ou\x20um\x20arquivo.'},{'question':_0x81c7e7(0x1fe),'answers':['Um\x20tipo\x20de\x20antivírus',_0x81c7e7(0x1b5),_0x81c7e7(0x1e1),_0x81c7e7(0x1fc)],'correct':0x1,'explanation':_0x81c7e7(0x183)},{'question':_0x81c7e7(0x192),'answers':['Armazenamento\x20de\x20dados\x20local',_0x81c7e7(0x20f),_0x81c7e7(0x1cc),_0x81c7e7(0x1a1)],'correct':0x1,'explanation':'A\x20computação\x20em\x20nuvem\x20refere-se\x20ao\x20uso\x20de\x20serviços\x20e\x20recursos\x20de\x20computação\x20oferecidos\x20pela\x20internet,\x20como\x20armazenamento\x20e\x20processamento\x20de\x20dados.'},{'question':_0x81c7e7(0x1ba),'answers':[_0x81c7e7(0x1a1),_0x81c7e7(0x204),'Uma\x20camada\x20extra\x20de\x20segurança',_0x81c7e7(0x18b)],'correct':0x2,'explanation':_0x81c7e7(0x18f)},{'question':_0x81c7e7(0x1de),'answers':['Uma\x20rede\x20social',_0x81c7e7(0x185),_0x81c7e7(0x205),_0x81c7e7(0x18b)],'correct':0x1,'explanation':_0x81c7e7(0x1e5)},{'question':_0x81c7e7(0x1e3),'answers':['Reduzir\x20redundância\x20de\x20dados',_0x81c7e7(0x1e0),_0x81c7e7(0x19b),_0x81c7e7(0x210)],'correct':0x0,'explanation':'A\x20normalização\x20é\x20o\x20processo\x20de\x20organizar\x20dados\x20em\x20um\x20banco\x20de\x20dados\x20para\x20reduzir\x20redundâncias\x20e\x20melhorar\x20a\x20integridade\x20dos\x20dados.'}];
-  
+  const quizData = [
+    {
+      "category": "Segurança",
+      "question": "Qual a função de um firewall?",
+      "answers": ["Bloquear acessos não autorizados", "Armazenar dados", "Processar informações"],
+      "correct": 0,
+      "explanation": "Um firewall monitora e controla o tráfego de rede baseado em regras de segurança predefinidas."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual componente é considerado o cérebro do computador?",
+      "answers": ["Memória RAM", "CPU", "Disco Rígido"],
+      "correct": 1,
+      "explanation": "A CPU (Unidade Central de Processamento) executa instruções e processa dados."
+    },
+    {
+      "category": "Software",
+      "question": "O que é um sistema operacional?",
+      "answers": ["Um tipo de hardware", "Um software que gerencia recursos do computador", "Uma aplicação de produtividade"],
+      "correct": 1,
+      "explanation": "Um sistema operacional gerencia os recursos do computador e fornece serviços para outros softwares."
+    },
+    {
+      "category": "Redes",
+      "question": "O que significa IP na área de redes?",
+      "answers": ["Internet Protocol", "Internal Process", "Interactive Platform"],
+      "correct": 0,
+      "explanation": "IP significa Internet Protocol, que é um conjunto de regras para comunicação de dados."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual dessas linguagens é utilizada para desenvolvimento web front-end?",
+      "answers": ["Python", "JavaScript", "C++"],
+      "correct": 1,
+      "explanation": "JavaScript é amplamente utilizada para desenvolvimento web front-end."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "O que significa SQL?",
+      "answers": ["Structured Query Language", "Simple Query Language", "Sequential Query Logic"],
+      "correct": 0,
+      "explanation": "SQL significa Structured Query Language, usada para gerenciar e manipular bancos de dados relacionais."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "Qual é a finalidade de uma chave primária em um banco de dados?",
+      "answers": ["Garantir unicidade das linhas", "Armazenar dados de backup", "Indexar colunas para pesquisa"],
+      "correct": 0,
+      "explanation": "A chave primária garante que cada linha da tabela seja única e identifica cada registro de forma exclusiva."
+    },
+    {
+      "category": "Sistemas Operacionais",
+      "question": "Qual desses é um sistema operacional baseado em Unix?",
+      "answers": ["Windows", "macOS", "MS-DOS"],
+      "correct": 1,
+      "explanation": "O macOS é um sistema operacional baseado em Unix, derivado do sistema NeXTSTEP."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é a memória RAM?",
+      "answers": ["Memória de armazenamento permanente", "Memória temporária que armazena dados em uso", "Memória somente leitura"],
+      "correct": 1,
+      "explanation": "A memória RAM armazena dados temporariamente enquanto o computador está em uso."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual desses é um paradigma de programação?",
+      "answers": ["Estrutural", "Linear", "Exponencial"],
+      "correct": 0,
+      "explanation": "A programação estrutural é um paradigma de programação focado no uso de estruturas de controle."
+    },
+    {
+      "category": "Redes",
+      "question": "O que significa DNS?",
+      "answers": ["Domain Name System", "Data Network System", "Direct Name Service"],
+      "correct": 0,
+      "explanation": "DNS significa Domain Name System e é responsável por traduzir nomes de domínio em endereços IP."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é phishing?",
+      "answers": ["Um tipo de vírus de computador", "Uma tentativa de obter informações pessoais fraudulentamente", "Uma técnica de proteção de dados"],
+      "correct": 1,
+      "explanation": "Phishing é uma prática fraudulenta de obter informações pessoais se passando por uma entidade confiável."
+    },
+    {
+      "category": "Software",
+      "question": "Qual é a função de um compilador?",
+      "answers": ["Executar programas", "Converter código fonte em código máquina", "Gerenciar o hardware"],
+      "correct": 1,
+      "explanation": "Um compilador converte o código fonte de uma linguagem de programação para um código executável."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "Qual é a linguagem usada para consultas a bancos de dados relacionais?",
+      "answers": ["HTML", "CSS", "SQL"],
+      "correct": 2,
+      "explanation": "SQL é a linguagem padrão usada para consultas a bancos de dados relacionais."
+    },
+    {
+      "category": "Redes",
+      "question": "O que é um roteador?",
+      "answers": ["Um dispositivo que conecta redes diferentes e encaminha pacotes", "Um dispositivo de armazenamento", "Uma impressora de rede"],
+      "correct": 0,
+      "explanation": "Um roteador é usado para conectar redes diferentes e encaminhar pacotes de dados entre elas."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é criptografia?",
+      "answers": ["A técnica de codificar informações para protegê-las", "A eliminação de dados desnecessários", "A compressão de arquivos"],
+      "correct": 0,
+      "explanation": "Criptografia é o processo de converter dados legíveis em uma forma codificada para protegê-los."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que faz uma placa-mãe?",
+      "answers": ["Armazena informações", "Interconecta os componentes do computador", "Realiza o processamento gráfico"],
+      "correct": 1,
+      "explanation": "A placa-mãe é responsável por interconectar os componentes e permitir a comunicação entre eles."
+    },
+    {
+      "category": "Programação",
+      "question": "O que significa IDE em programação?",
+      "answers": ["Integrated Development Environment", "Internal Data Editor", "Initial Development Entry"],
+      "correct": 0,
+      "explanation": "IDE significa Integrated Development Environment e é um ambiente que facilita o desenvolvimento de software."
+    },
+    {
+      "category": "Redes",
+      "question": "Qual é a função de um switch em uma rede?",
+      "answers": ["Redirecionar o tráfego de rede de acordo com endereços MAC", "Converter sinais digitais", "Controlar o acesso à internet"],
+      "correct": 0,
+      "explanation": "Um switch é responsável por redirecionar o tráfego de rede com base nos endereços MAC dos dispositivos conectados."
+    },
+    {
+      "category": "Software",
+      "question": "O que é software livre?",
+      "answers": ["Software disponível gratuitamente e que pode ser modificado", "Software que não precisa ser instalado", "Software sem licença"],
+      "correct": 0,
+      "explanation": "Software livre é um software que pode ser utilizado, modificado e distribuído livremente."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um SSD?",
+      "answers": ["Um tipo de memória volátil", "Um tipo de disco de armazenamento não volátil", "Um processador gráfico"],
+      "correct": 1,
+      "explanation": "Um SSD (Solid State Drive) é um tipo de dispositivo de armazenamento que usa memória flash."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é autenticação de dois fatores (2FA)?",
+      "answers": ["Um método de login usando duas camadas de proteção", "Uma técnica para hackear sistemas", "Uma forma de criptografar dados"],
+      "correct": 0,
+      "explanation": "Autenticação de dois fatores é uma camada adicional de segurança exigindo duas formas de verificação ao fazer login."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual desses é um framework JavaScript?",
+      "answers": ["Angular", "Ruby", "PHP"],
+      "correct": 0,
+      "explanation": "Angular é um framework popular para desenvolvimento de aplicativos web em JavaScript."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "O que é normalização em bancos de dados?",
+      "answers": ["O processo de organizar dados para minimizar redundância", "A criação de backups automáticos", "A indexação de tabelas para melhorar a velocidade"],
+      "correct": 0,
+      "explanation": "Normalização é o processo de organizar dados em um banco de dados para reduzir redundâncias e melhorar a integridade."
+    },
+    {
+      "category": "Redes",
+      "question": "O que significa HTTP?",
+      "answers": ["HyperText Transfer Protocol", "HyperText Transmission Process", "HyperThread Transfer Protocol"],
+      "correct": 0,
+      "explanation": "HTTP significa HyperText Transfer Protocol e é o protocolo usado para transferir dados na web."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é um barramento (bus) em um computador?",
+      "answers": ["Uma rede local de computadores", "Um conjunto de linhas de comunicação que transferem dados entre componentes", "Um tipo de memória não volátil"],
+      "correct": 1,
+      "explanation": "O barramento é um conjunto de linhas de comunicação usado para transferir dados entre os componentes do computador."
+    },
+    {
+      "category": "Software",
+      "question": "Qual é a principal diferença entre software proprietário e software livre?",
+      "answers": ["O software proprietário não pode ser modificado ou distribuído livremente", "O software livre é mais caro", "Software proprietário é sempre mais seguro"],
+      "correct": 0,
+      "explanation": "O software proprietário é protegido por direitos autorais, o que impede a modificação e distribuição sem autorização."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual é a principal função de um algoritmo?",
+      "answers": ["Solucionar problemas de forma sequencial", "Gerar números aleatórios", "Compilar códigos"],
+      "correct": 0,
+      "explanation": "Um algoritmo é um conjunto de passos lógicos usados para resolver problemas."
+    },
+    {
+      "category": "Redes",
+      "question": "O que é um endereço MAC?",
+      "answers": ["Um identificador único atribuído a dispositivos de rede", "Um tipo de endereço IP", "Um tipo de roteador"],
+      "correct": 0,
+      "explanation": "Um endereço MAC é um identificador único atribuído a dispositivos de rede para comunicação em uma rede."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é malware?",
+      "answers": ["Qualquer software projetado para causar danos ao computador ou rede", "Um programa para proteção contra vírus", "Um software livre de licença"],
+      "correct": 0,
+      "explanation": "Malware é qualquer software malicioso que pode danificar ou invadir sistemas e redes."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um processador gráfico (GPU)?",
+      "answers": ["Renderizar gráficos e imagens", "Gerenciar o tráfego de rede", "Processar dados matemáticos"],
+      "correct": 0,
+      "explanation": "Uma GPU (Unidade de Processamento Gráfico) é usada para renderizar gráficos e imagens em alta velocidade."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual é a sintaxe correta para criar uma função em JavaScript?",
+      "answers": ["function nomeFuncao() {}", "def nomeFuncao():", "function = nomeFuncao{}"],
+      "correct": 0,
+      "explanation": "A sintaxe correta para criar uma função em JavaScript é 'function nomeFuncao() {}'."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "O que é uma tabela em um banco de dados relacional?",
+      "answers": ["Um conjunto de registros organizados em linhas e colunas", "Um script para consultar dados", "Um índice de consulta"],
+      "correct": 0,
+      "explanation": "Uma tabela em um banco de dados relacional é um conjunto de dados organizados em linhas e colunas."
+    },
+    {
+      "category": "Redes",
+      "question": "O que significa VPN?",
+      "answers": ["Virtual Private Network", "Virtual Process Node", "Very Private Network"],
+      "correct": 0,
+      "explanation": "VPN significa Virtual Private Network e é usada para criar uma conexão segura sobre uma rede pública."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é ransomware?",
+      "answers": ["Um tipo de malware que exige resgate para liberar o sistema infectado", "Um software de backup", "Uma técnica de compressão de arquivos"],
+      "correct": 0,
+      "explanation": "Ransomware é um tipo de malware que bloqueia o acesso ao sistema até que um resgate seja pago."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma fonte de alimentação (PSU)?",
+      "answers": ["Converter corrente alternada em corrente contínua para alimentar os componentes", "Fornecer energia direta ao processador", "Controlar a voltagem da memória RAM"],
+      "correct": 0,
+      "explanation": "A fonte de alimentação converte a corrente alternada (AC) em corrente contínua (DC) para alimentar os componentes do computador."
+    },
+    {
+      "category": "Programação",
+      "question": "Qual dessas é uma linguagem de programação orientada a objetos?",
+      "answers": ["Java", "HTML", "CSS"],
+      "correct": 0,
+      "explanation": "Java é uma linguagem de programação orientada a objetos, usada amplamente no desenvolvimento de software."
+    },
+    {
+      "category": "Redes",
+      "question": "O que é o protocolo FTP usado para?",
+      "answers": ["Transferir arquivos pela internet", "Criptografar dados em redes", "Atribuir endereços IP"],
+      "correct": 0,
+      "explanation": "FTP (File Transfer Protocol) é usado para transferir arquivos entre computadores na internet."
+    },
+    {
+      "category": "Segurança",
+      "question": "Qual é a função de um antivírus?",
+      "answers": ["Detectar e remover softwares maliciosos", "Proteger dados contra perda", "Aumentar a velocidade do processador"],
+      "correct": 0,
+      "explanation": "Um antivírus é um software que detecta e remove vírus e outros malwares de um sistema."
+    },
+    {
+      "category": "Hardware",
+      "question": "O que é overclocking?",
+      "answers": ["Aumentar a frequência de operação de um componente acima de suas especificações originais", "Diminuir a temperatura da CPU", "Aumentar a capacidade de armazenamento de um disco rígido"],
+      "correct": 0,
+      "explanation": "Overclocking é o ato de aumentar a frequência de operação de um componente, como a CPU, além de suas especificações normais."
+    },
+    {
+      "category": "Programação",
+      "question": "O que é um loop em programação?",
+      "answers": ["Uma estrutura que repete um bloco de código até que uma condição seja atendida", "Um tipo de variável", "Uma função matemática complexa"],
+      "correct": 0,
+      "explanation": "Um loop é uma estrutura que repete a execução de um bloco de código até que uma condição específica seja satisfeita."
+    },
+    {
+      "category": "Redes",
+      "question": "Qual é o papel de um proxy em uma rede?",
+      "answers": ["Atuar como intermediário entre o cliente e o servidor", "Atribuir endereços IP", "Detectar ameaças de malware"],
+      "correct": 0,
+      "explanation": "Um proxy atua como intermediário entre um cliente e um servidor, controlando e filtrando o tráfego de rede."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é ransomware?",
+      "answers": ["Um tipo de malware que exige resgate para liberar o sistema", "Um software de proteção contra vírus", "Uma ferramenta de gerenciamento de senhas"],
+      "correct": 0,
+      "explanation": "Ransomware é um tipo de malware que bloqueia o acesso ao sistema ou arquivos e exige um pagamento para liberá-los."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de uma fonte de alimentação em um computador?",
+      "answers": ["Armazenar dados", "Converter energia elétrica para alimentar os componentes", "Controlar a temperatura do sistema"],
+      "correct": 1,
+      "explanation": "A fonte de alimentação converte energia elétrica da tomada em uma forma utilizável para os componentes do computador."
+    },
+    {
+      "category": "Programação",
+      "question": "O que é um bug em programação?",
+      "answers": ["Um erro ou falha em um programa", "Uma nova funcionalidade", "Um tipo de sistema operacional"],
+      "correct": 0,
+      "explanation": "Um bug é um erro ou falha em um programa que pode causar comportamentos inesperados."
+    },
+    {
+      "category": "Banco de Dados",
+      "question": "O que é uma consulta em SQL?",
+      "answers": ["Uma operação para recuperar dados de um banco de dados", "Um comando para excluir dados", "Um tipo de tabela"],
+      "correct": 0,
+      "explanation": "Uma consulta em SQL é uma operação que recupera dados de um banco de dados com base em critérios especificados."
+    },
+    {
+      "category": "Redes",
+      "question": "Qual é a principal função do protocolo TCP?",
+      "answers": ["Garantir a entrega confiável de dados", "Controlar o acesso à internet", "Converter endereços IP em nomes de domínio"],
+      "correct": 0,
+      "explanation": "O protocolo TCP (Transmission Control Protocol) garante a entrega confiável de dados na comunicação pela internet."
+    },
+    {
+      "category": "Segurança",
+      "question": "O que é engenharia social?",
+      "answers": ["Manipulação de pessoas para obter informações confidenciais", "Um método de programação", "Uma técnica de segurança de rede"],
+      "correct": 0,
+      "explanation": "Engenharia social refere-se à manipulação de indivíduos para que revelem informações confidenciais."
+    },
+    {
+      "category": "Software",
+      "question": "Qual é a diferença entre um aplicativo nativo e um aplicativo web?",
+      "answers": ["Aplicativos nativos são instalados no dispositivo, enquanto aplicativos web são acessados pelo navegador", "Aplicativos nativos são mais lentos que aplicativos web", "Não há diferença"],
+      "correct": 0,
+      "explanation": "Aplicativos nativos são desenvolvidos para um sistema operacional específico e instalados no dispositivo, enquanto aplicativos web são acessados através de navegadores."
+    },
+    {
+      "category": "Programação",
+      "question": "O que significa OOP?",
+      "answers": ["Programação Orientada a Objetos", "Operação de Objeto Programado", "Organização de Objetos em Projetos"],
+      "correct": 0,
+      "explanation": "OOP significa Programação Orientada a Objetos, um paradigma de programação baseado na utilização de objetos."
+    },
+    {
+      "category": "Hardware",
+      "question": "Qual é a função de um cooler em um computador?",
+      "answers": ["Aumentar a velocidade do processador", "Resfriar os componentes para evitar superaquecimento", "Aumentar a memória RAM"],
+      "correct": 1,
+      "explanation": "Um cooler é usado para resfriar os componentes do computador, evitando que eles superaqueçam."
+    },
+    {
+      "category": "Redes",
+      "question": "O que é um servidor?",
+      "answers": ["Um computador que fornece serviços a outros computadores", "Um dispositivo de armazenamento", "Um tipo de firewall"],
+      "correct": 0,
+      "explanation": "Um servidor é um computador que fornece serviços e recursos a outros computadores na rede."
+    }
+  ];
+
+  let questions = [...quizData];
+  shuffle(questions);
   let currentQuestion = 0;
   let score = 0;
+  let categoryStats = {};
+  let correctAnswerIndex = -1;
 
-  let correctAnswerIndex;
-  const questions = [...quizData];
-  shuffle(questions);
-  const startQuiz = document.getElementById("startQuiz");
+  const startQuizBtn = document.getElementById("startQuiz");
   const quizContainer = document.getElementById("quizContainer");
   const questionEl = document.getElementById("question");
   const answersEl = document.getElementById("answers");
@@ -46,15 +412,49 @@
   const nextQuestionBtn = document.getElementById("nextQuestion");
   const resultEl = document.getElementById("result");
   const scoreEl = document.getElementById("score");
+  const percentageEl = document.getElementById("percentage");
   const restartQuizBtn = document.getElementById("restartQuiz");
   const questionChip = document.getElementById("questionChip");
+  const categoryChip = document.getElementById("categoryChip");
   const scoreCounter = document.getElementById("scoreCounter");
 
-  startQuiz.addEventListener("click", () => {
-    document.getElementById("intro").classList.add("hidden");
-    quizContainer.classList.remove("hidden");
-    loadQuestion();
+  const progressBar = new ProgressBar.Circle("#progress-bar", {
+    strokeWidth: 4,
+    easing: "linear",
+    duration: 15000,
+    trailWidth: 1,
+    step: function(state, circle) {
+      const timeLeft = Math.ceil((1 - circle.value()) * 15);
+      circle.setText(timeLeft > 0 ? timeLeft : "Esgotado");
+
+      if (timeLeft <= 5 && timeLeft > 0) {
+        circle.path.setAttribute("stroke", "#ff0000");
+        document.querySelector("#progress-bar").classList.add("pulsing");
+      } else {
+        circle.path.setAttribute("stroke", "#3490dc");
+        document.querySelector("#progress-bar").classList.remove("pulsing");
+      }
+
+      if (timeLeft <= 0)
+        handleTimeout();
+    },
+    svgStyle: { width: "100%", height: "100px" },
   });
+
+  function startTimer() {
+    progressBar.set(0);
+    progressBar.animate(1);
+  }
+
+  function stopTimer() {
+    progressBar.stop();
+    document.querySelector("#progress-bar").classList.remove("pulsing");
+  }
+
+  function handleTimeout() {
+    stopTimer();
+    skipQuestion();
+  }
 
   function loadQuestion() {
     const question = questions[currentQuestion];
@@ -63,49 +463,75 @@
     explanationEl.classList.add("hidden");
 
     questionChip.textContent = `Pergunta ${currentQuestion + 1}/${quizData.length}`;
+    categoryChip.textContent = `Categoria: ${question.category}`;
     scoreCounter.textContent = `Pontuação: ${score}`;
 
-    const answers = [...question.answers];
-  	shuffle(answers);
+    const shuffledAnswers = [...question.answers];
+    shuffle(shuffledAnswers);
+    correctAnswerIndex = shuffledAnswers.indexOf(question.answers[question.correct]);
 
-  	correctAnswerIndex = answers.indexOf(question.answers[question.correct]);
-
-    answers.forEach((answer, index) => {
+    shuffledAnswers.forEach((answer, index) => {
       const button = document.createElement("button");
       button.textContent = answer;
-      button.classList.add("w-full", "text-left", "bg-gray-300", "hover:bg-gray-400", "py-2", "px-4", "rounded", "transition", "duration-300");
+      button.classList.add(
+        "w-full",
+        "text-left",
+        "bg-gray-300",
+        "hover:bg-gray-400",
+        "py-2",
+        "px-4",
+        "rounded",
+        "transition",
+        "duration-300",
+        "focus:outline-none",
+        "focus:ring-2",
+        "focus:ring-blue-500"
+      );
+      button.setAttribute("aria-label", `Resposta ${index + 1}: ${answer}`);
       button.addEventListener("click", () => selectAnswer(index));
       answersEl.appendChild(button);
     });
 
     nextQuestionBtn.classList.add("hidden");
+    startTimer();
   }
 
-  function selectAnswer(index) {
+  function selectAnswer(selectedIndex) {
+    stopTimer();
     const buttons = answersEl.getElementsByTagName("button");
     for (let button of buttons) {
       button.disabled = true;
-      button.classList.remove("hover:bg-gray-200");
+      button.classList.remove("hover:bg-gray-600");
     }
 
-    if (index === correctAnswerIndex) {
-      buttons[index].classList.remove("bg-gray-300", "hover:bg-gray-400");
-      buttons[index].classList.add("bg-green-500", "text-white");
+    const currentQ = questions[currentQuestion];
+    const category = currentQ.category;
+
+    if (!categoryStats[category]) {
+      categoryStats[category] = { correct: 0, total: 0 };
+    }
+
+    categoryStats[category].total++;
+
+    if (selectedIndex === correctAnswerIndex) {
+      buttons[selectedIndex].classList.remove("bg-gray-300", "hover:bg-gray-400");
+      buttons[selectedIndex].classList.add("bg-green-500", "text-white");
       confetti({
-        particleCount: 50,
-        spread: 100,
+        particleCount: 100,
+        spread: 70,
         origin: { y: 0.6 }
       });
 
       const correctSound = new Audio("public/sounds/correct-answer.webm");
       correctSound.play();
       score++;
+      categoryStats[category].correct++;
     } else {
-      buttons[index].classList.remove("bg-gray-300", "hover:bg-gray-400");
-      buttons[index].classList.add("bg-red-500", "text-white", "shake");
-      buttons[correctAnswerIndex].classList.remove("bg-gray-300", "hover:bg-gray-400");
+      buttons[selectedIndex].classList.remove("bg-gray-300", "hover:bg-gray-400");
+      buttons[selectedIndex].classList.add("bg-red-500", "text-white", "shake");
+      buttons[correctAnswerIndex].classList.remove("bg-gray-700", "hover:bg-gray-600");
       buttons[correctAnswerIndex].classList.add("bg-green-500", "text-white");
-      
+
       document.body.classList.add("flash-red");
       setTimeout(() => {
         document.body.classList.remove("flash-red");
@@ -115,12 +541,249 @@
       errorSound.play();
     }
 
-    explanationTextEl.textContent = questions[currentQuestion].explanation;
+    explanationTextEl.textContent = currentQ.explanation;
     explanationEl.classList.remove("hidden");
-    if (currentQuestion + 1 > questions.length)
-      nextQuestionBtn.innerText = "Ir para resultados";
     nextQuestionBtn.classList.remove("hidden");
+
+    if (currentQuestion === questions.length - 1) {
+      nextQuestionBtn.innerText = "Ver Resultados";
+    }
   }
+
+  function skipQuestion() {
+    const buttons = answersEl.getElementsByTagName("button");
+    for (let button of buttons) {
+      button.disabled = true;
+      button.classList.remove("hover:bg-gray-600");
+    }
+
+    const currentQ = questions[currentQuestion];
+    const category = currentQ.category;
+
+    if (!categoryStats[category]) {
+      categoryStats[category] = { correct: 0, total: 0 };
+    }
+
+    categoryStats[category].total++;
+
+    document.body.classList.add("flash-red");
+    setTimeout(() => {
+      document.body.classList.remove("flash-red");
+    }, 300);
+
+    const errorSound = new Audio("public/sounds/wrong-answer.webm");
+    errorSound.play();
+
+    explanationTextEl.textContent = currentQ.explanation;
+    explanationEl.classList.remove("hidden");
+    nextQuestionBtn.classList.remove("hidden");
+
+    if (currentQuestion === questions.length - 1) {
+      nextQuestionBtn.innerText = "Ver Resultados"; // Alteração solicitada
+    }
+  }
+
+  function showResult() {
+    quizContainer.classList.add("hidden");
+    resultEl.classList.remove("hidden");
+    
+    const percentage = ((score / quizData.length) * 100).toFixed(2);
+    
+    scoreEl.textContent = `Você acertou ${score} de ${quizData.length} perguntas!`;
+    percentageEl.textContent = `Taxa de Acerto: ${percentage}%`;
+    
+    generateCharts();
+
+    confetti({
+      particleCount: 300,
+      spread: 160,
+      origin: { y: 0.6 }
+    });
+  }
+
+  function generateCharts() {
+    const ctxBar = document.getElementById("resultChart").getContext("2d");
+    new Chart(ctxBar, {
+      type: "bar",
+      data: {
+        labels: Object.keys(categoryStats),
+        datasets: [{
+          label: "Acertos",
+          data: Object.values(categoryStats).map(cat => cat.correct),
+          backgroundColor: "rgba(52, 144, 220, 0.6)",
+          borderColor: "rgba(52, 144, 220, 1)",
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: "Acertos por Categoria"
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const category = context.label;
+                const correct = categoryStats[category].correct;
+                const total = categoryStats[category].total;
+                const percent = ((correct / total) * 100).toFixed(2);
+                return `${correct} de ${total} (${percent}%)`;
+              }
+            }
+          },
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            precision: 0,
+            title: {
+              display: true,
+              text: "Número de Acertos"
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: "Categorias"
+            }
+          }
+        }
+      }
+    });
+
+    const ctxRadar = document.getElementById("radarChart").getContext("2d");
+    new Chart(ctxRadar, {
+      type: "radar",
+      data: {
+        labels: Object.keys(categoryStats),
+        datasets: [{
+          label: "Taxa de Acerto (%)",
+          data: Object.values(categoryStats).map(cat => ((cat.correct / cat.total) * 100).toFixed(2)),
+          backgroundColor: "rgba(255, 159, 64, 0.2)",
+          borderColor: "rgba(255, 159, 64, 1)",
+          borderWidth: 1,
+          pointBackgroundColor: "rgba(255, 159, 64, 1)",
+          pointBorderColor: "#fff",
+          pointHoverBackgroundColor: "#fff",
+          pointHoverBorderColor: "rgba(255, 159, 64, 1)"
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: "Taxa de Acerto por Categoria"
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const category = context.label;
+                const percent = ((categoryStats[category].correct / categoryStats[category].total) * 100).toFixed(2);
+                return `${percent}%`;
+              }
+            }
+          },
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          r: {
+            beginAtZero: true,
+            max: 100,
+            ticks: {
+              stepSize: 10
+            },
+            angleLines: {
+              color: "rgba(200, 200, 200, 0.2)"
+            },
+            grid: {
+              color: "rgba(200, 200, 200, 0.2)"
+            },
+            pointLabels: {
+              font: {
+                size: 14
+              }
+            }
+          }
+        }
+      }
+    });
+
+    const ctxPie = document.getElementById("pieChart").getContext("2d");
+    new Chart(ctxPie, {
+      type: "pie",
+      data: {
+        labels: ["Acertos", "Erros"],
+        datasets: [{
+          data: [score, quizData.length - score],
+          backgroundColor: [
+            "rgba(52, 144, 220, 0.6)",
+            "rgba(255, 99, 132, 0.6)"
+          ],
+          borderColor: [
+            "rgba(52, 144, 220, 1)",
+            "rgba(255, 99, 132, 1)"
+          ],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: "Distribuição Geral de Acertos"
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const label = context.label;
+                const value = context.parsed;
+                const percent = ((value / quizData.length) * 100).toFixed(2);
+                return `${label}: ${value} (${percent}%)`;
+              }
+            }
+          },
+          legend: {
+            position: "bottom"
+          }
+        }
+      }
+    });
+  }
+
+  function restartQuiz() {
+    currentQuestion = 0;
+    score = 0;
+    categoryStats = {};
+    resultEl.classList.add("hidden");
+    nextQuestionBtn.innerText = "Próxima Pergunta";
+    document.getElementById("intro").classList.remove("hidden");
+
+    percentageEl.textContent = '';
+    
+    const charts = ["resultChart", "radarChart", "pieChart"];
+    charts.forEach(chartId => {
+      const chartElement = document.getElementById(chartId);
+      if (chartElement) {
+        const chartInstance = Chart.getChart(chartId);
+        if (chartInstance) chartInstance.destroy();
+      }
+    });
+  }
+
+  startQuizBtn.addEventListener("click", () => {
+    document.getElementById("intro").classList.add("hidden");
+    quizContainer.classList.remove("hidden");
+    loadQuestion();
+  });
 
   nextQuestionBtn.addEventListener("click", () => {
     currentQuestion++;
@@ -131,23 +794,13 @@
     }
   });
 
-  function showResult() {
-    quizContainer.classList.add("hidden");
-    resultEl.classList.remove("hidden");
-    scoreEl.textContent = `Você acertou ${score} de ${quizData.length} perguntas!`;
-    
-    confetti({
-      particleCount: 200,
-      spread: 150,
-      origin: { y: 0.6 }
-    });
-  }
+  restartQuizBtn.addEventListener("click", restartQuiz);
 
-  restartQuizBtn.addEventListener("click", () => {
-    currentQuestion = 0;
-    score = 0;
-    resultEl.classList.add("hidden");
-    nextQuestionBtn.innerText = "Próxima Pergunta";
-    document.getElementById("intro").classList.remove("hidden");
-  });
+  function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
 })();
