@@ -476,8 +476,8 @@
       button.classList.add(
         "w-full",
         "text-left",
-        "bg-gray-300",
-        "hover:bg-gray-400",
+        "bg-gray-400",
+        "hover:bg-gray-500",
         "py-2",
         "px-4",
         "rounded",
@@ -527,9 +527,9 @@
       score++;
       categoryStats[category].correct++;
     } else {
-      buttons[selectedIndex].classList.remove("bg-gray-300", "hover:bg-gray-400");
+      buttons[selectedIndex].classList.remove("bg-gray-400", "hover:bg-gray-500");
       buttons[selectedIndex].classList.add("bg-red-500", "text-white", "shake");
-      buttons[correctAnswerIndex].classList.remove("bg-gray-700", "hover:bg-gray-600");
+      buttons[correctAnswerIndex].classList.remove("bg-gray-400", "hover:bg-gray-500");
       buttons[correctAnswerIndex].classList.add("bg-green-500", "text-white");
 
       document.body.classList.add("flash-red");
