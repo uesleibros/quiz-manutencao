@@ -812,6 +812,7 @@
   }
 
   function showResult() {
+    stopTimer();
     quizContainer.classList.add("hidden");
     resultEl.classList.remove("hidden");
     
